@@ -1,0 +1,4 @@
+2025-04-04 12:12:11.305869 - Received CBT.V508.FILE585.PDS from FILE585.XMI 
+2025-04-04 12:12:11.306493 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE585.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:12:11.306653 - Found @FILE585.txt (text/plain) in CBT.V508.FILE585.PDS, moved to PDS/@FILE585
+2025-04-04 12:12:11.306838 - Found AWSSL.txt (text/plain) in CBT.V508.FILE585.PDS, moved to PDS/AWSSL
